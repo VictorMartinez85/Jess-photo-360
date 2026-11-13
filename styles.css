@@ -784,6 +784,7 @@ h2 {
   height: 100%;
   object-fit: cover;
   margin-top: 65px;
+ 
 }
 
 .pricing__img {
@@ -795,10 +796,6 @@ h2 {
 }
 
 .pricing__para {
-  font-size: 75px;
-  justify-content: center;
-  align-items: center;
-  padding: 50px 50px;
-  margin: auto;
-  transform: translate(60%);
+  margin-left: 50%;
+  max-width: 100%;
 }
